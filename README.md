@@ -2,7 +2,7 @@ a. What server framework did you choose and why?
 	Ruby on Rails. Even though it is a new language to me, it enables to create much faster and maintainable project. The code here is very concise.
 
 b. What client framework did you choose and why?
-	JavaScript. I'm comfortable using JavaScript scripting language and it is pretty easy to implement the given requirements.
+	JavaScript. I'm comfortable using JavaScript, Jquery  because it is pretty easy to implement the given requirements.
 	
 c. What aspect of the implementation did you find easy, if any, and why?
 	 I found creating ruby project, editing controllers, views and routes and running the project locally on localhost easy.
